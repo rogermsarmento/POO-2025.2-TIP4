@@ -8,10 +8,10 @@ Este repositório tem como objetivo principal armazenar e documentar o desenvolv
 
 | Nome Completo do Aluno | Matrícula | GitHub |
 | ---------------------- | --------- | ------ |
-| [Nome do Aluno 1] | [Matrícula do Aluno 1] | [@usuario1](https://github.com/usuario1) |
+| [Nome do Aluno 1] | [Matrícula do Aluno 1] | [@rogermsarmento](https://github.com/@rogermsarmento) |
 | [Nome do Aluno 2] | [Matrícula do Aluno 2] | [@usuario2](https://github.com/usuario2) |
 | [Nome do Aluno 3] | [Matrícula do Aluno 3] | [@usuario3](https://github.com/usuario3) |
-| [Nome do Aluno 4] | [Matrícula do Aluno 4] | [@usuario4](https://github.com/usuario4) |
+
 
 ## Estrutura do Repositório
 
@@ -39,6 +39,6 @@ POO-2025.2-TIP4/
 
 -   **Linguagem Utilizada:** Java
 -   **IDE de Desenvolvimento:** Eclipse IDE
--   **Professor(a):** [Nome do Professor(a)]
+-   **Professor(a):** Roger M Sarmento
 
 Este documento está sujeito a atualizações conforme o andamento da disciplina.
